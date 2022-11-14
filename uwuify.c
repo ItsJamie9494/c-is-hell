@@ -6,7 +6,10 @@
 #include "uwu.h"
 
 /*
+ * Bee 2021
+ * I dont know anymore
  * Jamie 2022
+ * Converted to UwU-C
  */
 
 chaw mawtchCase(chaw chw, chaw mawtch);
